@@ -1,0 +1,7 @@
+name,speed,canid,data0,data1,data2,data3,data4,data5,data6,data7
+Speed,High,201,0,0,0,0,60,0,0,0
+sound,Low,401,4,4,4,4,4,4,4,4
+billy,High,401,1,1,1,1,1,1,1,1
+warning,Low,274,4,4,4,4,4,4,4,4
+warning2,Low,274,8,8,8,8,8,8,8,8
+RPM,High,201,10,10,0,0,0,0,0,0
